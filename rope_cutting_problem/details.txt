@@ -1,0 +1,2 @@
+suppose we have given a rope of length r we need to cut the rope in maximum number of pieces but have to ensure 
+the lenght of cut out will be either a,b or c and no rope left at the end.

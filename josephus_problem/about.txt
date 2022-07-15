@@ -1,0 +1,58 @@
+there are n person standing in a circular manner and have to kill the ith person until and unless only one person left
+suppose n = 3
+
+            1
+        8        2
+    7               3
+        6        4
+            5
+
+
+            1
+        8        2
+    7               
+        6        4
+            5
+
+            1
+        8        2
+    7               
+                 4
+            5
+
+
+            
+        8        2
+    7               
+                4
+            5
+
+
+            
+        8        2
+    7               
+                4
+            
+
+                
+        8        2
+    7               
+                
+            
+            
+        8        
+    7
+
+                
+        8        
+
+
+
+        if starting from any fix position in last returend value add that position.
+        
+                  
+               
+                          
+               
+            
+            

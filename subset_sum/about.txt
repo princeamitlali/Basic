@@ -1,0 +1,12 @@
+given an array containing integers find out the pairs of elements in the given array whose sum is equal to n
+
+like [1,2,3,4,5,6,7,8,9,0]
+
+sum = 9
+
+result = 
+0,9
+1,8
+2,7
+3,6
+4,5
