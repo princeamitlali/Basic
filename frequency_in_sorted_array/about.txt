@@ -1,0 +1,1 @@
+frequency of all element in the array

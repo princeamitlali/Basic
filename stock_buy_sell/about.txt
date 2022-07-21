@@ -1,0 +1,2 @@
+you have known  the price of stocks in advance you have to write such a program so that you can maximize
+the profit by buying and selling the stocks.

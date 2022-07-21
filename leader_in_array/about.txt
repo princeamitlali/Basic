@@ -1,0 +1,6 @@
+an element of an array is the leader when no other element to the right side of the element in the array is
+greater than the element.
+
+if sorted in increasing order only the last element is the leader
+
+if sorted in decreasing order all element is leader

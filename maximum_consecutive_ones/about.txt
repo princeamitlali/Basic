@@ -1,0 +1,5 @@
+given an boolean array containing only 0 and 1 you have to find maximum occurance of consecutive ones.
+
+li = [0,0,1,1,1,0,1,1,1,1,1]
+
+ soln = 5

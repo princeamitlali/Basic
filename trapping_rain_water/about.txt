@@ -1,0 +1,6 @@
+in an array we have non negative integers denoting the height of the pillers find the water trapped in
+between the pillers.
+
+if array sorted no water will be stored
+
+can use concept of leaders to solve efficiently.
