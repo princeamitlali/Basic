@@ -1,0 +1,6 @@
+we have an binary array containing 0 and 1 give minimum nummber of flips to make all 0 or all 1
+
+rules:-
+    1. can flip either 0 or 1
+    2. can flip consecutive 0's or 1's at once.
+    

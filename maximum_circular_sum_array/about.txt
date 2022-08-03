@@ -1,0 +1,2 @@
+in a array find sum that is maximum by adding consecutive element also the consider the end of array is conneted
+with the begining so consider element both side of index

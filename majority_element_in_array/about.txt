@@ -1,0 +1,2 @@
+one element is said to be in majority if it occurs more than n/2 times in the array
+where n is the size of the array

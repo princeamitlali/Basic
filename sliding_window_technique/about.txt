@@ -1,0 +1,5 @@
+given an array we have to find the maximim sum ok k consecutive items.
+
+naive - time complexity will be k(n-k)  == n*n
+
+sliding window time complexity == n

@@ -1,0 +1,21 @@
+suppose we have an array of element n 
+
+li = [2,4,6,-5,15,7]
+
+the element we can call equilibrium if the sum of array left side of that is equal
+to the sum of element on the right side of that element
+
+left -> 2+4+6-5 = 11
+right -> 11
+
+thus 15 is equilibrium point
+
+ex 2 
+
+li = [1,2,3] is not having any equilibrium point
+
+corner cases
+
+li= [4,2,-1] is having 4 as equilibrium point
+
+li = [2,-2,4] is also having equilibrium point

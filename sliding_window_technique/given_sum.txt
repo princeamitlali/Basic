@@ -1,0 +1,1 @@
+given an unsorted array of on negative element we have to find the sub array of sum equivalent to the the given sum.
