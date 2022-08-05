@@ -1,0 +1,11 @@
+given element in an array is the peak element if it is greater than its both neighbour.
+
+if only element always will be peak
+
+for first element check only right neighbour
+
+for last element only check left neighbour
+
+if sorted assending last element is only peak element
+
+if sorted descending peak element is the first element

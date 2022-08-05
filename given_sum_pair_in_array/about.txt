@@ -1,0 +1,1 @@
+given a sorted array find a pair of element having sum equal to the given number
