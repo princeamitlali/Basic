@@ -1,0 +1,1 @@
+one array contains all the element from 0-n some of the element may be repetative find the repetative element.
