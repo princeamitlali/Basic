@@ -1,0 +1,3 @@
+conversion is the condition if the array is in reverse sorted form
+
+i < j and a[i] > a[j]

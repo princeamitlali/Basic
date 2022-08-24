@@ -1,0 +1,10 @@
+for lamuto algorithm last element we will always consider the pivot element
+the pivot element will be at the correct position but it will take more time as compared to the hoare's algorithm.
+
+
+hoare's algorithm
+first element is pivot element
+
+the position of the pivot will not be neccesary in the right place.
+
+but takes less time them lamoto algorithm.

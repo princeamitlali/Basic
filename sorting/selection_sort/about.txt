@@ -1,0 +1,2 @@
+find minimum put at first , find second put at second position and so one
+it maintain two array inside one single array the first past is sorted and second is unsorted

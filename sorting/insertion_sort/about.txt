@@ -1,0 +1,6 @@
+n2 worst case
+in place and stable
+used in all the python library as a hybrid and works good with small arrays
+tim sort and intro sort is an examble
+
+n is best case

@@ -1,0 +1,18 @@
+quick sort works along a partition algorithm where the whole array is partitioned along this element only. the smaller element is putted to the left of the partition
+where the greater element is to the right_side.
+
+divide and conquer algorithm
+
+O(n^2)
+
+best algorithm due to
+1. in place algorithm
+2. cache friendly
+3. average time complexity is O(nlogn)
+4. tail recursive
+
+3 partition algorithm naive,lamuto,hoare
+
+naive is stable
+
+lamuto and hoare are not stable

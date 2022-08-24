@@ -1,0 +1,1 @@
+compare i to i + 1 if not sorted swap with each other else move forward.

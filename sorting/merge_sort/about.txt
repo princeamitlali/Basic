@@ -1,0 +1,9 @@
+1. divide and conquer algorithm
+2. stable algorithm
+nlogn time and n aux space
+
+well suited for linked lists. works in 1 aux space
+
+used in external sorting
+
+in genral for arrays , quicksort outperforms it.
