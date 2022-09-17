@@ -1,0 +1,5 @@
+we have an array of n choclate packets like [7,3,2,4,10,56]
+
+which have to distribute among m childrens such that :1
+1. each child get 1 packets
+2. diff is minimum in the choclate numbers

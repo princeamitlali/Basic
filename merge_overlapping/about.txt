@@ -1,0 +1,5 @@
+we have some intervals and some ranges are common our task is to merge the intervals to make a unique ranges
+
+ex [[1,3],[2,5],[7,9]]
+
+result = [[1,5],[7,9]]

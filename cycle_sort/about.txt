@@ -1,0 +1,7 @@
+ worst case sorting algorithm O(n^2)
+
+ does minimum memory writes and can be useful for cases where memory write is costly
+
+ in place and not stable
+
+ useful to solve questions like find the minimum swaps to sort an array.

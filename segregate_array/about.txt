@@ -1,0 +1,3 @@
+suppose an array having two types of element (0,1) (+,-) or (odd,even)
+
+seperate one type from other.

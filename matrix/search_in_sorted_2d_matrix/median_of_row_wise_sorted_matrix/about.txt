@@ -1,0 +1,11 @@
+given a row wise sorted matrix you have to print the median of the matrix
+
+li = [
+[1,10,20],
+[15,25,30],
+[5,8,40]
+]
+
+sorted = [1,5,8,10,15,20,25,30,40]
+
+median = 20
