@@ -1,21 +1,24 @@
 li = [8,-4,3,-5,4]
 
-def kadenes_algo(lis):
-    res = li[0]
-    max_end = li[0]
-    for i in range(1,len(li)):
-        max_end = max(li[i],max_end + li[i])
-        res = max(res,max_end)
-    return res
+def maxSubarraySumCircular(self, nums: List[int]) -> int:
+        n = len(nums)
+        if (n == 1):
+            return nums[0]
 
-normal_sub_sum = kadenes_algo(li)
-print("normal",normal_sub_sum)
+        s = 0
+        s = sum(nums)
 
-total_sum = sum(li)
-
-li = [-i for i in li]
-print(li)
-# max_circular_sum = 
-real_max = max(normal_sub_sum,total_sum + kadenes_algo(li))
-
-print(real_max)
+        curr_max = nums[0]
+        max_so_far = nums[0]
+        curr_min = nums[0]
+        min_so_far = nums[0]
+        for i in range(1, n):
+            curr_max = max(curr_max + nums[i], nums[i])
+            max_so_far = max(max_so_far, curr_max)
+            
+            curr_min = min(curr_min + nums[i], nums[i])
+            min_so_far = min(min_so_far, curr_min)
+        
+        if (min_so_far == s):
+            return max_so_far
+        return max(max_so_far, s - min_so_far)
